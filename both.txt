@@ -1,0 +1,1166 @@
+usitp-96-01
+january 4, 1996
+
+a possible description of the quantum
+
+numbers in a hadronic string model
+
+v.a. kudryavtsev 1
+
+petersburg nuclear physics institute
+
+gatchina, 188350 st. petersburg, russia
+
+g. weidl2
+
+institute of theoretical physics
+
+university of stockholm, box 6730
+
+s-113 85 stockholm, sweden
+
+abstract: we consider a critical composite superconformal
+string model to desribe hadronic interactions. we present a new
+approach of introducing hadronic quantum numbers in the scat-
+tering amplitudes. the physical states carry the quantum num-
+bers and form a common system of eigenfunctions of the opera-
+tors in this string model. we give explicit constructions of the
+quantum number operators.
+
+6
+9
+9
+1
+
+ 
+
+n
+a
+j
+ 
+
+4
+
+ 
+ 
+
+1
+v
+8
+0
+0
+1
+0
+6
+9
+/
+h
+t
+-
+p
+e
+h
+:
+v
+i
+x
+r
+a
+
+1e-mail: kudryav@thd.pnpi.spb.ru
+2e-mail:galia@vanosf.physto.se
+
+1
+
+1 introduction
+
+in 1967 the regge hadronic resonances have been discovered. the experi-
+mental data gave evidence of a typical relation between the spins i and the
+square of the masses m of these strongly interacting particles [1]. it turned
+out, that the resonances form the so-called regge trajectories
+
+i(m 2) = 0 + m 2  n .
+
+(1)
+
+for n = 0, 1, 2, ... one nds a family of parallel linear daughter trajectories.
+the constants 0 and  denote the intercept and the regge slope. the
+leading -meson trajectory corresponds to n = 0.
+
+so far qcd has not been able to explain this phenomenon. on the other
+hand in the 1970s it was observed, that in string theory the mass shell
+condition
+
+(l0  a)|phys >= 0
+
+generates a mass spectrum with parallel trajectories. the intercept a depends
+on the cancellation condition of the conformal anomaly in the respective
+theory. thus hadronic strings became a natural candidate for describing
+the regge spectrum phenomena. however such eorts failed because of the
+necessary appearance of massless states of spin one and two, which do not
+correspond to physical hadronic resonances.
+
+while these massless states gave rise to treat string theory as a fun-
+damental theory of all interactions including gravity at planck energy scale,
+the discrepance in hadronic string theory at typical strong interaction energy
+scales of e  1 gev remained unresolved for a long time. in [7], [10] one
+of the authors suggested a new critical composite superconformal hadronic
+string. it consists of the neveu-schwarz (ns) superstring and a fermionic
+superconformal string [5]. the ns eld components are associated with the
+space-time degrees of freedom, while the fermionic sector carries the internal
+degrees of freedom, namely the hadronic quantum numbers. in accordance
+with the conformal anomaly cancelation in this model we have to impose new
+gauge constraints on the physical states. this allows to eliminate the prob-
+lematic massless states from the string mass spectrum, which now becomes
+compatible with the regge resonance spectrum [7].
+
+in this paper we present a possible explicit construction of the opera-
+tors, corresponding to the hadronic quantum numbers spin, isospin, electric
+
+2
+
+charge, hyper-charge, baryon charge, strangeness, charm, beauty and top.
+we give the structure of the hadronic wave functions.
+
+in section 2 we review the main features of the composite string model and
+the structure of its superconformal generator. we discuss the cancellation
+of the anomaly achieved in d = 10 or d = 4 space-time dimensions and d
+internal fermionic degrees of freedom. then additional d
+6 3 conditions
+are needed respectively for the anomaly-free solution. in section 3 we give all
+gauge conditions eliminating ghosts in the physical states of the composite
+string model and the spectral equations for the quantum numbers.
+
+6 or d
+
+2 the
+
+critical
+string model
+
+composite
+
+superconformal
+
+in order to describe the physical hadronic states with their quantum numbers
+and masses we have to consider a string model in the four dimensional space-
+time. such models can be obtained by compactication of the critical ten
+dimensional superstring. one way of compactication to four dimensions is
+the fermionization of six dimensions [2]-[3], namely, by introducing free world
+sheet fermions (,  ) carrying all internal quantum numbers of the string
+[2], [5], [11]. a generalization and concrete realization of this approach has
+been achieved in the critical composite superconformal string model [10],
+[12]. this model unies the superconformal structures of the neveu-schwarz
+operator g(n s)
+[5] by introducing the
+composite superconformal operator
+
+[9] and of the fermion operator g(f )
+
+r
+
+r
+
+gr = g(n s)
+
+r
+
++ g(f )
+
+r
+
+.
+
+(2)
+
+the operator g(f )
+quantum numbers, and
+
+r
+
+is constructed in such a way, that gr is a singlet in all
+
+r } = 0.
+the specic superconformal algebras of g(n s)
+(see the appendix).
+
+{g(n s)
+
+, g(f )
+
+r
+
+r
+
+and g(f )
+
+r are closed separately
+
+the canonical superconformal operator g(n s)
+
+r
+
+reads [8],[9]
+
+g(n s)
+
+r
+
+=
+
+1
+
+2i i h ( x)e+ir d.
+
+3
+
+we use the notations
+
+x (i)
+
+ = x(i)
+
+0 + ip(i)
+
+ ln zi + xn6=0
+
+a(i)
+n
+in
+
+zn
+i , zi = eii
+
+[a(i)
+
+n, a(i)
+
+m] = n gn,m,
+
+g00 = 1, gii = 1,
+
+for the i-th string space-time coordinate of zero conformal weight, and
+
+h (i)
+
+ (zi) = b(i)
+
+rzr
+
+s} = gr,s
+
+i , {b(i)
+
+r, b(i)
+
+for its superpartner in the neveu-schwarz string model. the ns-states are
+given by the fock space of the products of the creation operators
+
+yn, ym,{a
+
+n}{b
+
+m}|0 > .
+
+as usual the operator gr of the composite string shall be of the conformal
+weight ic = 3/2. therefore the fermion operator g(f )
+is of the same conformal
+weight. it can be constructed as a three-linear combination [2] of the fermion
+elds a of ic = 1/2 and their currents j a of ic = 1, i.e. [5]
+
+r
+
+g(f )
+r () = xa,b,c
+
+abcabc + xa
+
+j aa .
+
+(3)
+
+by construction g(f )
+is a singlet in the quantum numbers. the fermion
+operator generates all internal quantum numbers, what we show in detail in
+the next section.
+
+r
+
+we turn now to the description of the structure of the elds a and their
+currents j a, entering in (3). let   j,  = 0, 1, 2, 3, j = 1, 2 be
+majorana spinor with ic = 1/2. its eight components are lorentz spinors in
+ and isospinors in j simultaneously. the respective currents j a
+
+j a = t,
+
+ = t0 = 02,
+
+are of conformal weight one. these currents are non-zero, if the respective
+8  8 matrices t0t are antisymmetric. the matrices t can be choosen
+of the form
+
+, 5i, i, 5i, [, ].
+
+4
+
+thus we obtain the 28 components for the vector, axial vector, scalar, pseu-
+doscalar and tensor currents
+
+j a = t = {j v
+
+ , j a
+
+i, j s
+
+i , j p
+
+i , j t
+
+}.
+
+they generate a kac-moody algebra, see [4]. with these currents we asso-
+ciate the respective 28 fermion components
+
+a := {; , i, i, i, } ,  = 0, 1, 2, 3,
+
+i = 1, 2, 3.
+
+(4)
+
+these elds satisfy the standard anticommutation relations. we consider the
+physical quarks as compositions of the elementary eld components (4).
+
+we see, that the eight spinor components  generate 28 vector, axial
+is
+
+vector, scalar, pseudoscalar and tensor fermionic components. thus g(f )
+a scalar in d=36 fermionic components.
+
+r
+
+it is well known, that the neveu-schwarz string is critical in the space-
+time dimension d = 10. this comes from the condition of cancellation of
+the conformal anomaly, or equivalently the nilpotency of the brst-charge
+2 = 0 [3], [4]
+
+3
+2
+
+d  26 + 11 =
+
+(d  10) = 0.
+
+(5)
+
+3
+2
+
+we point out, that the new composite string remains critical for d=10. this
+is due to the ghost contributions 3 from the introduced fermionic elds and
+their currents [10]. indeed, in the composite model the condition (5) turns
+into
+
+3
+2
+
+d  26 + 11 + (
+
+1
+2
+
+d  3n) =
+
+3
+2
+
+(d  10) + (
+
+1
+2
+
+d  3n) = 0,
+
+(6)
+
+where 3n denotes the ghost contribution. in the dimension d = 10 the
+condition (6) is satised, if we choose n = d/6 [10].
+on the other hand, compactifying the string to the space-time dimension
+d = 4, we can impose n = d
+6 3 gauge constraints. these gauge constraints
+on the fermionic sector are used to cancel the superuous (in compairison
+3the ghost contribution is given by cg = 2(6ic(ic  1) + 1), where  = 1 is the
+ghost statistic for integer ic and  = 1 is the ghost statistic for half integer ic. hence n
+fermions with ic = 1/2 contribute cg = n and n corresponding currents with ic = 1
+contribute cg = 2n.
+
+5
+
+with the regge spectrum) states, and to shift the vacuum to g1/2|0 > .
+this shift ensures the absence of a tachyon in the spectrum.
+the amplitude of the hadron interactions are constructed by the opera-
+tor formalism. the quantum numbers spin, isospin, electric charge, hyper-
+charge, baryon charge, strangeness, charm, beauty and top and the masses of
+the hadronic states are included in the structure of the hadronic wave func-
+tion which enters in the vertex operator structure, and hence in the structure
+of the n hadrons amplitude an .
+
+the factorization of the amplitude gives the wave function of the cor-
+responding hadronic state. this wave function contains a certain number
+of components, corresponding to its experimental mass. these components
+carry all hadron quantum numbers and will reproduce explicitly the quan-
+tum numbers in the hadronic amplitude structure. this has been shown
+in [6] where the superconformal string amplitudes for  mesons interactions
+have been constructed and in [11], [12] where the general n hadrons interac-
+tion amplitudes are obtained as multiparticle generalization of the lovelace-
+shapiro amplitude and are treated as composite superconformal strings.
+
+duality, crossing and cyclic symmetry for these superconformal compos-
+ite string amplitudes hold together with the description of hadron quantum
+numbers.
+
+3 the quantum numbers
+
+in this section we give a possible explicit construction of the quantum num-
+bers of hadron wave functions. this wave functions shall satisfy a set of
+gauge constraints
+
+ln|phys >= 0, n > 0, gr|phys >= 0, r > 0,
+which eliminate ghosts in the physical states. here ln = l(n s)
+n denotes
+the virasoro operator, the fermion part of which is explicitly given in the
+appendix. as usual we impose the mass shell condition
+
+n +l(f )
+
+(7)
+
+where the intercept 1/2 is xed by the nilpotency of the brst charge.
+
+(l0  1/2)|phys >= 0,
+
+(8)
+
+6
+
+in addition to this we have to require new gauge constraints
+
+(l)
+r |phys >= 0,
+
+j (l)
+
+r |phys >= 0,
+
+l = 1, ..., n =
+
+d
+6  3,
+
+(9)
+
+eliminating the ghosts contributions from the added fermionic elds and their
+currents. such new constraints are in agreement with the anomaly cancella-
+tion condition (6). they are responsible for the reduction of the composite
+string spectrum to the regge resonance spectrum. the gauge constraints
+(7)-(9) build a supermultiplet ln, gr, j (l)
+r with the conformal weights
+ic = 2, 3
+
+r , (l)
+
+2 respectively.
+
+2 , 1, 1
+
+we search for a common system of eigenfunctions for (7)-(9) and the
+
+spectral equations
+
+(10)
+on the remaining dn fermion components. the operator qm runs over the
+quantum number operators for the spin, isospin, electric charge, hypercharge,
+baryon charge, strangeness, charm, beauty and top.
+
+qm|phys >= qm|phys >
+
+an appropriate choice of the quantum number operators are those zero
+
+components of the corresponding currents
+
+(j a)0 = t a := {g(f )
+
+r
+
+, (a)r,}
+
+(11)
+
+which are number operators, i.e. count the component carrying the spin,
+isospin, baryon charge and so on.
+
+the operators (11) automatically commute with the virasoro operators
+
+l(f )
+
+n and g(f )
+
+r
+
+[l(f )
+
+n , t a] = 0,
+
+[g(f )
+
+r
+
+, t a] = 0,
+
+what ensures the existence of a common system of eigenfunctions.
+
+r
+
+since g(f )
+
+is a quantum number singlet, the charge t a carries the same
+quantum numbers as the eld a. therefore the isospin operator shall be
+dened as
+
+it generates the algebra [t 
+
+t 
+i
+i , t 
+
+:= {g(f )
+j ] = ijkt 
+
+r
+
+, (i)r}.
+k and has eigenvalues
+
+i + 1)|phys > .
+analogously the lorentz spin operator is dened by
+
+( t 
+i )2|phys >= t 
+
+i (t 
+
+j  (kt 
+
+) := {g(f )
+
+r
+
+, (k)r}
+
+7
+
+(12)
+
+(13)
+
+with the momentum k. the specic realization of the spin and isospin op-
+erators is given in the appendix.
+
+the baryon charge b = 1 is carried by hadron states with half-integer
+lorentz spin. among the elds in (4) only  is a lorentz spinor. therefore,
+if a wave function contains an even number of  components, it is a meson,
+otherwise it is a baryon. thus the baryon charge is dened by
+
+b =
+
+1
+2
+
+(1  (1)nb )
+
+(14)
+
+ll is the number of spinor -elds.
+
+where nb = pl
+among the currents (11) one can not nd other operators with number
+structure. on the other hand all 36 components (4) were used in the specic
+realization of (12)-(14). therefore with them we can only construct meson
+and baryon states containing u and d quarks. to dene the quantum numbers
+strangeness s, charm c, beauty b and top t independently, we have to extend
+the set (4) of 36 fermion components with an analogous partner-set of 36
+eld components (lorentz scalars and isoscalars)
+
+a := {; i, jk} ,  = 1...8, i, j, k = 1...7.
+
+(15)
+
+the fermion elds (15) show the following anticommutation properties
+
+{( )r, ()s} = r,s,
+
+ = 02,
+
+{(i)r, (j)s} = ijr,s,
+{(ij)r, (kl)s} = (ikjl  iljk)r,s,
+
+ij = ji.
+
+from the 8 component spinor  we can dene 28 components of the kac-
+moody currents
+
+j a = nji := i;
+
+jjk := [i, j]o.
+
+(16)
+
+which are lorentz scalars and isoscalars. here i denote the 8  8 cliord
+matrices, obeying the standard anticommutation relations {j, k} = 2jk.
+the currents ji, jjk carry the same quantum numbers as the elds i, jk.
+this guaranties the scalarity of the superconformal operator
+
+g(f )
+r () = xabc
+
+abcabc + xa
+
+j aa.
+
+(17)
+
+8
+
+composing the superconformal operators (3) and (17)
+
+g(f )
+
+r = g(f )
+
+r () + g(f )
+
+r ()
+
+(18)
+
+we describe the full set of hadron quantum numbers 4.
+
+from (12) the third isospin component in the a-space is given by
+
+t 
+3 := {g(f )
+
+r
+
+, (3)r}.
+
+by construction 12  a is the partner-component to 3. therefore we dene
+the isospin projection in a by
+
+t12 := {g(f )
+
+r
+
+, (12)r}.
+
+(19)
+
+the full projection of the isospin of the hadron state corresponds to the sum
+
+t3|phys >= (t 
+
+3 + t12)|phys > .
+
+(20)
+
+in order to describe the avour quantum numbers strangeness, charm,
+beauty and top we have to construct four commutating operators in a with
+structure similar to the zero component of the currents j a. we will nd
+them using the properties of the spinor representation of the o(6) group.
+the 8 component spinors in the compactied d = 6 space transforms under
+o(6). the generators of this group are given via the 8  8 i matrices by
+[i, j] = 4imij,
+i, j = 1...6. it holds [mij, mkl] = 0, if and only if i 6= k, l
+and j 6= k, l. thus among the generators one can choose not more then three
+commutating with each other mij, e.g. m12, m34, m56. since the cliord
+matrices i transforms under o(6) as vectors
+
+[mij, k] = i(ikj  jki),
+
+i, j, k = 1...6,
+
+neither of the matrices 1, ..., 6 commutes with all of the three generators
+m12, m34, m56. on the other hand, the matrix 7 := q6
+i=1 i commutes with
+all generators mij. thus 7 is the fourth independent operator.
+
+4g(f )
+
+r
+
+is a quantum number singlet in d = 72, which can be reduced to d=10 according
+to (6) by imposing n = d/6 = 12 conditions on the physical states, i.e. 6 on each of the
+sets (4) and (15). then for the compactication of the composite string to d=4 are used
+n = d/6  3 = 9 constraints.
+
+9
+
+according to this we introduce rst three independent generators t12, t34,
+t56. we choose t12 according to (19), since it denes the s, c, b, t-avour part
+of the isospin projection. the remaining two generators are given by
+
+t34 := {g(f )
+t56 := {g(f )
+
+r
+
+r
+
+, (34)r}
+, (56)r}.
+
+the fourth charge operator has the form
+t7 := {g(f )
+
+r
+
+, (7)r}.
+
+(21)
+(22)
+
+(23)
+
+it commutes with (19), (21), (22) and with ln, gr. hence there exists a
+common system of eigenfunctions for all these operators.
+
+the operators t12, t34, t56, t7 can not directly be identied as avor quan-
+tum number operators. in fact one has to consider the following four linear
+combinations, which dene strangeness, charm, beauty and top
+
+s := 
+
+c := 
+b := 
+t := +
+
+1
+2
+1
+2
+1
+2
+1
+2
+
+(t34 + t56) 
+
+(t34 + t56) +
+
+(t12 + t34) +
+
+(t12 + t56) 
+
+1
+2
+1
+2
+1
+2
+1
+2
+
+(t12 + t7),
+
+(t12 + t7),
+
+(t56 + t7),
+
+(t34 + t7).
+
+(24)
+
+(25)
+
+(26)
+
+(27)
+
+thus the physical quarks are described as superpositions of elementary string
+elds. hence the quarks are composite objects in this model.
+
+if we substitute (20) and (24)-(27) into the expression for the electric
+
+charge
+
+with the baryon charge b, we obtain
+
+q = t3 + (s + b  c  t + b)/2
+
+q = t 
+
+3 + b/2.
+
+(28)
+
+this can be taken as a denition, which is independent of the quark avors
+contained in the hadronic state. analogously the expression for the hyper-
+charge in the quark model
+
+y = s + b  c  t + b
+
+10
+
+together with (24)-(27) gives
+
+y = b  2t12.
+
+(29)
+
+in case of t12 = 0 we have y = b for all states, containing only u- and
+d-quarks.
+
+the above constructions give a realization of the hadron quantum num-
+bers q, b, t3, s, b, c, t in terms of the composite string operators. each given
+hadron state can be interpreted as a wave function with the respective quan-
+tum numbers in the composite string model.
+
+the spin, isospin and baryon charge in the rst generation of ( u
+
+d )-quarks
+are realized from the a-set, while the s, c, b, t avours are realized on the
+partner set a. thus the respective wave functions have the structure
+
+< meson| =< 0, k|fafa, < baryon| =< 0, k|fafa
+
+with < 0, k| =< 0| exp(ikx). in this fa is a compositions of components
+from (4), symmetric or antisymmetric with respect to the spin and isospin,
+while fa carries the quantum numbers s, c, b, t, and the isospin projection
+t12, and contains only components from a.
+
+the fermion superconformal operator g(f )
+
+r has d = 72 internal degrees
+of freedom. notice, that the quark model contains 6 avors, 3 colours and 4
+spin components, what also gives total number of 72 degrees of freedom.
+
+finally we turn to the realization of the mass-spectrum of the hadron
+resonances. let the strange fermion component gives a contribution of
+m 2 = 0.3 gev2 to the mass of the physical state. this agrees with the
+experimental fact of parallel -meson- and k -trajectories
+
+m 2
+
+k   m 2
+
+ =
+
+1
+2 = 0.3gev2.
+
+in this case the composite string model gives a much better description of
+the physical mass spectrum then the quark model. in the quark model these
+trajectories are not parallel.
+
+4 discussion
+
+a description of the hadron quantum numbers has been given in the compos-
+ite string model in the simplest case of 8 component spinors in a compacti-
+ed six-dimensional space. another possibility is to consider 32 component
+
+11
+
+spinors, what is natural in the critical d=10 string. there the number of cur-
+rents obtained as pairs of 32 component spinors is equal to 496. this gives
+d = 528 fermionic degrees of freedom. here we impose n = d/6 = 88
+gauge conditions on physical states. this allows a simultaneous description
+of the quarks and leptons in terms of the fermionic sector of the model. this
+is a subject of further publications.
+
+5 appendix
+
+we give here the concrete realization of the described operators. in [5] the
+fermion superconformal operator g(f )
+
+r () was introduced as
+
+g(f )
+
+r () =
+
+1
+4i
+
+(  ) +
+
+1
+4
+
+( 5i ) +
+
+( i)i +
+
+1
+4
+
+1
+4
+
+( 5i)i+
+
+1
+7{
+1
+2
+
+( 
+
+[, ]) +
+
+1
+6i
+
+(ijk)ijk 
+
+1
+2i
+
+(i)i +
+
+1
+1
+i
+2i
+(ii) 
+
+(ijk)ijk 
+1
+() +
+2i
+
+1
+2i
+1
+6i
+
++
+
+1
+8i
+
++
+
+with
+
+((ij)k)ijk+
+
+(
+
+)}r
+
+(ijk)r = xr1+r2+r3=r
+
+(i)r1(j)r2(k)r3.
+
+by analogy the operator g(f )
+
+r () is given by
+
+g(f )
+
+r () =
+
+1
+7{( ii)r + ( [j, k]jk)r + (ijij)r + (ijjkki)r},
+
+where the matrices i are dened as
+
+i = (i, ), i = 1, 2, 3,  = 4, 5, 6, 7,
+
+i = 5  i,
+
+i = 1, 2, 3,
+
+4 = 1  1, 5 = 2  1, 6 = 3  1, 7 = 123456.
+
+the full fermion operator is given by (18). its superconformal algebra is
+
+closed
+
+{g(f )
+
+r
+
+, g(f )
+
+s } = 2l(f )
+
+r+s +
+
+d
+6
+
+(r2 
+
+1
+4
+
+)r,s,
+
+12
+
+i.e. the superconformal structure of the model is conserved.
+
+the virasoro conformal algebra is satised
+
+[l(f )
+
+n , l(f )
+
+m ] = (n  m)l(f )
+
+n+m +
+
+d
+24
+
+(n3  n)n,m,
+
+and the conformal and superconformal operators commutation relation hold
+
+[l(f )
+
+n , g(f )
+r
+
+] = (
+
+n
+2  r)g(f )
+n+r.
+
+the factor n
+
+2  r implies, that gr is of the conformal weight 3/2.
+
+correspond to the fermion part of the action
+
+the virasoro operator l(f )
+n
+
+of the free string
+
+s =
+
+i
+
+8 z d d(     + +  + +i i +ij ij).
+
+next we give the realization of the the quantum number operators in terms
+of the components of the elementary string elds. the isospin operator t 
+i
+is given by
+
+t 
+i = xj,k
+
+: (jkijk)0 : +
+
+1
+
+2 xl>0
+
+( lil) + xj,k
+
+: (jk + jk)0ijk : .
+
+the lorentz-spin operator is dened as
+
+(kt 
+
+) = 
+
+1
+
+4 xl>0
+
+k
+
+l[, ]l + x : (kii + k + k)0 : .
+
+the operators t12, t34, t56, t7 can be realized as
+
+t12 = xr>0
+
+r3r + x : (12)0 : +x : (1k2k)0 :,
+
+t34 = xr>0
+t56 = xr>0
+
+r[3, 4]r + x : (34)0 : +xk
+r[5, 6]r + x : (56)0 : +xk
+t7 = xr>0
+: (7kk)0 : .
+
+r7r + xk
+
+: (3k4k)0 :,
+
+: (5k6k)0 :,
+
+13
+
+references
+
+[1] p.d.b.collins and e.j.squires, regge poles
+
+in particle physics
+
+(springer-verlag, 1968)
+
+[2] i.antoniadis, c.p.bachas and c. kounnas, nucl. phys. b 289 (1987) 87
+
+[3] i.antoniadis, c.p.bachas, c. kounnas and p.windey, phys.lett. b 171
+
+(1986) 51
+
+[4] m.kaku, introduction to superstrings, section four-dimensional su-
+
+perstrings (springer-verlag, 1988)
+
+[5] v.a.kudryavtsev, jetp lett. 54 (1991) 417 (pisma zh. eksp. teor.
+
+fiz. 54 (1991) 417.
+
+[6] v.a.kudryavtsev, jetp lett. 58 (1993) 323 (pisma zh. eksp. teor.
+
+fiz. 58 (1993) 321).
+
+[7] v.a.kudryavtsev, phys. at. nucl. 57 (1994) 542 (yad. fiz. 57 (1994)
+
+574).
+
+[8] l.brink and henneaux, principles of string theory (plenum press, new
+
+yourk and london, 1988)
+
+[9] a.neveu and j.h.schwarz, nucl.phys. b 31 (1971) 86 , phys.rev. d 4
+
+(1971) 1109
+
+[10] v.a.kudryavtsev, phys. at. nucl. 57 (1994) 1461 (yad. fiz. 57 (1994)
+
+1534).
+
+[11] v.a.kudryavtsev, phys. at. nucl. 58 (1995) 131 (yad. fiz. 58 (1995)
+
+137).
+
+[12] v.a.kudryavtsev, proceedings of
+
+the workshop on soft physics
+
+hadrons-94 (kiev, 1994) p.363, superstrings for hadrons.
+
+14
+
+
